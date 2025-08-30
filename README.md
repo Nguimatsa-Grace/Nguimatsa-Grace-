@@ -1,5 +1,5 @@
 
-👋 Hello / Bonjour, I'm Nguimatsa Grace
+👋 Hello / Bonjour, I'm Grace Nguimatsa
 
 ![Wave](https://github.com/nhancv/demo-github-readme/blob/main/assets/wave.gif)  
 
