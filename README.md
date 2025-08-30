@@ -1,4 +1,4 @@
-# Grace-Nguims
+
 👋 Hello / Bonjour, I'm Nguimatsa Grace
 
 ![Wave](https://github.com/nhancv/demo-github-readme/blob/main/assets/wave.gif)  
